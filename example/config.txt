@@ -1,0 +1,2 @@
+Prefix plugins/SQTL/example/
+Plugin SQTL inputfile geuvadis outputfile SQTL.rds
